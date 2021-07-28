@@ -1,16 +1,18 @@
-### Hi there 👋
+![Alt Text] (https://media.giphy.com/media/436hhtZJQAT86nomhG/giphy.gif)
 
-<!--
-**bcanty92/bcanty92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there! This is me, Brittany! 👋
 
-Here are some ideas to get you started:
+🌱 I’m a Full Stack Web Developer
+👯 I am passionate about code and development including Program management 
+😄 Pronouns: she/her
+⚡ Fun fact: In my spare time I am a competitive ballroom dancer
+📫 How to reach me: bcanty92@gmail.com
+* [LinkedIn](https://www.linkedin.com/in/bcanty/)
+* [portfolio](https://brittanycantyportfolio.netlify.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages, Frameworks, and Software I'm using:
+* **Frontend:** VSCode, Git Bash, HTML, CSS, Javascript, React, Bootstrap, Reactstrap, Redux, Basic Python, Cypress.io, Jest
+
+* **Backend:** Node.js, SQLite, PostgreSQL, Environment Variables, DbDesigner, Insomnia, TablePlus, Postman, Heroku
+
+[![Brittanys GitHub stats](https://github-readme-stats.vercel.app/api?username=bcanty92)](https://github.com/bcanty92/github-readme-stats)
