@@ -1,4 +1,4 @@
-[![Alt Text] (https://giphy.com/gifs/Veeam-developing-programing-veeam-436hhtZJQAT86nomhG/fullscreen)
+
 
 ### Hi there! This is me, Brittany! 👋
 
