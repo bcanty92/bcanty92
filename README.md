@@ -3,12 +3,12 @@
 ### Hi there! This is me, Brittany! 👋
 
 🌱 I’m a Full Stack Web Developer
-👯 I am passionate about code and development including Program management 
+👯 I am passionate about code and development including Program Management 
 😄 Pronouns: she/her
 ⚡ Fun fact: In my spare time I am a competitive ballroom dancer
 📫 How to reach me: bcanty92@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/bcanty/)
-* [portfolio](https://brittanycantyportfolio.netlify.app/)
+* [Portfolio](https://brittanycantyportfolio.netlify.app/)
 
 ## Languages, Frameworks, and Software I'm using:
 * **Frontend:** VSCode, Git Bash, HTML, CSS, Javascript, React, Bootstrap, Reactstrap, Redux, Basic Python, Cypress.io, Jest
