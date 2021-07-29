@@ -15,4 +15,4 @@
 
 * **Backend:** Node.js, SQLite, PostgreSQL, Environment Variables, DbDesigner, Insomnia, TablePlus, Postman, Heroku
 
-[![Brittanys GitHub stats](https://github-readme-stats.vercel.app/api?username=bcanty92)](https://github.com/bcanty92/github-readme-stats)
+
