@@ -3,7 +3,7 @@
 ### Hi there! This is me, Brittany! 👋
 
 🌱 I’m a Full Stack Web Developer
-👯 I am passionate about code and development including Program Management 
+👯 I am passionate about code and development including Program Management and Data Analyzing 
 😄 Pronouns: she/her
 ⚡ Fun fact: In my spare time I am a competitive ballroom dancer
 📫 How to reach me: bcanty92@gmail.com
