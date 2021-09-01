@@ -11,7 +11,7 @@
 * [Portfolio](https://brittanycantyportfolio.netlify.app/)
 
 ## Languages, Frameworks, and Software I'm using:
-* **Project Mananagement**
+* **Project Mananagement**Fignma,agile/scrum
 
 * **Frontend:** VSCode, Git Bash, HTML, CSS, Javascript, React, Bootstrap, Reactstrap, Redux, Cypress.io, Jest
 
