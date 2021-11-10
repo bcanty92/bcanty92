@@ -8,7 +8,7 @@
 ⚡ Fun fact: In my spare time I am a competitive ballroom dancer
 📫 How to reach me: bcanty92@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/bcanty/)
-* [Portfolio](https://brittanycantyportfolio.netlify.app/)
+* [Portfolio](https://brittanycanty-portfolio.netlify.app/)
 
 ## Languages, Frameworks, and Software I'm using:
 * **Project Mananagement:** Figma,agile/scrum
