@@ -4,7 +4,7 @@
 
 🌱 I’m a Full Stack Web Developer
 👯 I am passionate about code and development including Program Management and Data Analyzing 
-😄 Pronouns: she/her
+😄 Pronouns: she/they
 ⚡ Fun fact: In my spare time I am a competitive ballroom dancer
 📫 How to reach me: bcanty92@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/bcanty/)
